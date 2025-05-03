@@ -54,7 +54,7 @@ TIMELAPSE_FPS=24
 
 ## 使用方法
 
-スクリプトを実行するだけです:
+スクリプトを実行するだけです
 
 ```bash
 python make_timelapse.py
